@@ -1,0 +1,8 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="alert-circle">
+    <rect id="Rectangle_259" data-name="Rectangle 259" width="24" height="24" fill="#59d6d6" opacity="0"/>
+    <path id="Path_1207" data-name="Path 1207" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z" fill="#59d6d6"/>
+    <circle id="Ellipse_126" data-name="Ellipse 126" cx="1" cy="1" r="1" transform="translate(11 15)" fill="#59d6d6"/>
+    <path id="Path_1208" data-name="Path 1208" d="M12,7a1,1,0,0,0-1,1v5a1,1,0,0,0,2,0V8A1,1,0,0,0,12,7Z" fill="#59d6d6"/>
+  </g>
+</svg>

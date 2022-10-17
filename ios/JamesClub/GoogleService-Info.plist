@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>174505714981-324hrqscq878agh0506updkvn0nivseb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.174505714981-324hrqscq878agh0506updkvn0nivseb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>174505714981-d10u87vtu993nro8nnudqmn8p00u2op4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGd_HhCV720eULGqRyxi0DVQULjmH6MKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>174505714981</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.JamesClub</string>
+	<key>PROJECT_ID</key>
+	<string>jamesclub-54f7c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jamesclub-54f7c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:174505714981:ios:f9162c64ee0a002be5a6cc</string>
+</dict>
+</plist>

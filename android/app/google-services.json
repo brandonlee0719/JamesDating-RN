@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "174505714981",
+    "project_id": "jamesclub-54f7c",
+    "storage_bucket": "jamesclub-54f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174505714981:android:a4804030669ead0ee5a6cc",
+        "android_client_info": {
+          "package_name": "com.jamesclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174505714981-e55bu3v78488h2lon6hpid97gu7dr4f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamesclub",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "174505714981-ocer9h6e492dbkahic14v1i78p04i62g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamesclub",
+            "certificate_hash": "e25705a9f2cf3075f975b09b6ea9aea7653e8523"
+          }
+        },
+        {
+          "client_id": "174505714981-s93siq4haurl630p09s4tckpi4gtoi1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamesclub",
+            "certificate_hash": "db5f475d5695f56d1d06fbb4c7cbf8e4962c6ea6"
+          }
+        },
+        {
+          "client_id": "174505714981-os830seophl6uhu6cpgkbb1pm74bbkh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0UqCx44RNVoQ96abpCWkd7hNw6dBeDxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174505714981-os830seophl6uhu6cpgkbb1pm74bbkh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174505714981-324hrqscq878agh0506updkvn0nivseb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.JamesClub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
